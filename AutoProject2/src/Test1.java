@@ -7,8 +7,8 @@ public class Test1 {
 		for (i=1;i<100;i++)
 		{
 			System.out.println("i..."+i);
-     	    int j=i+1333;
 
+     	    int j=i+1444;
 			System.out.println("j..."+j);
 
 			for (int k=0;k<100;k++)
