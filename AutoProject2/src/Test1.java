@@ -7,7 +7,7 @@ public class Test1 {
 		for (i=1;i<100;i++)
 		{
 			System.out.println("i..."+i);
-     	int j=i+15;
+     	    int j=i+100;
 
 			System.out.println("j..."+j);
 
@@ -18,6 +18,8 @@ public class Test1 {
 
 			int k=j+15;
 			System.out.println("k...");
+			
+			// adding new comment 
 
 			
 		}
