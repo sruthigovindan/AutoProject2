@@ -18,8 +18,13 @@ public class Test1 {
 			
 			// Testing edits
 
-			int k=j+15;
+			int k=j+188;
 			System.out.println("k...");
+			
+			// adding a new variable h and updating k
+			
+			int h=j+78;
+			System.out.println("h...");
 
 			
 		}
